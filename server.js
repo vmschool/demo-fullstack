@@ -13,7 +13,8 @@ app.get('/api/languages', async (req, res) => {
     { _id: 1, name: 'JavaScript' },
     { _id: 2, name: 'Python' },
     { _id: 3, name: 'Rust' },
-    { _id: 4, name: 'Go' }
+    { _id: 4, name: 'Go' },
+    { _id: 5, name: 'C#' }
   ]);
 });
 
